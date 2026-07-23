@@ -1,8 +1,7 @@
 # 🛡️ Nivelamento em Cybersecurity 🐳
 
-<p align="center">
-  <img src="COLE_AQUI_O_LINK_LONGO_DA_SUA_IMAGEM" alt="Selo Nivelamento Cyber" width="120"/>
-</p>
+<img width="120" height="120" alt="Conclusão_Nivelamento_Cyber" src="https://github.com/user-attachments/assets/d5d612af-d7cc-421c-83fb-9bbdd6ac01ad" />
+
 
 
 Neste projeto, realizei a configuração completa do meu ambiente de desenvolvimento local, estruturado especificamente para estudos e práticas de segurança da informação (Cybersec).
