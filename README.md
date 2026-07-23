@@ -1,8 +1,9 @@
 # 🛡️ Nivelamento em Cybersecurity 
 
 <p align="center">
-  <img src="https://docker.com" alt="Docker Logo" width="120"/>
+  <img src="https://jsdelivr.net" alt="Docker Logo" width="120"/>
 </p>
+
 
 Neste projeto, realizei a configuração completa do meu ambiente de desenvolvimento local, estruturado especificamente para estudos e práticas de segurança da informação (Cybersec).
 
